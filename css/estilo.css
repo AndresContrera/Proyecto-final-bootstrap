@@ -1,0 +1,72 @@
+@charset "utf-8";
+/* CSS Document */
+.body{background-color: #872f37;}
+
+.logopng{
+	width:70%;
+	margin-left: 1%;
+
+	float: left;
+}
+
+.d-lg-block{width: 100%;}
+
+.redes-Sociales{
+	width: 15%;
+	float: right;
+	
+	margin-right: 5%;
+	margin-top: 10%;
+}
+.logo-bar{
+	width:82%;
+	margin-left: 9%;
+}
+
+.section{
+	width: 82%;
+	margin-left:9%;
+	margin-top: 1%;
+}
+
+.BachataSpoty{
+	width: 100%;
+	margin-left: 130%;
+	margin-top: -100%;;
+	float: left;
+}
+
+.form-group{
+	margin-left: 10%;
+}
+
+.people{width: 5%;
+float: left;
+margin-left: 3%;
+margin-top: 3%;}
+
+
+.text-izq{
+	float: left;
+	margin-left: 50%;
+	
+
+	
+}
+
+.BachataSpoty-2{
+	width: 100%;
+	margin-top: -100%;
+	
+	float: right;
+}
+
+.buscar{
+	float: left;
+	margin-left: 35%;
+}
+
+.h-100{
+	margin-top: 10%;
+}
+
