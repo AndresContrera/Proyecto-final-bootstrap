@@ -70,3 +70,34 @@ margin-top: 3%;}
 	margin-top: 10%;
 }
 
+
+
+
+@media (max-width:800px) {
+    .navbar .dropdown-menu {
+        padding-top: 0;
+        padding-bottom: 0;
+        border: 0
+    }
+}
+
+@media (min-width:900px) {
+    .navbar .dropdown-menu {
+        transform: translateY(.5rem);
+        opacity: 0
+    }
+
+    .navbar .dropdown-menu.show {
+        animation: .2s forwards d
+    }
+
+    @keyframes d {
+        to {
+            transform: translateY(0);
+            opacity: 1
+        }
+    }
+}
+
+
+
